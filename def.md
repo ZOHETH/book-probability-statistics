@@ -1,4 +1,4 @@
-# 一些概念
+# Concepts
 
 #### 一些统计概念
 
@@ -14,7 +14,7 @@ $$Pr(\mu-1\sigma\le X\le \mu+1\sigma)\approx0.6827$$
 
 **中心极限定理**
 
-每次从总体中随机抽取n个样本，抽m次。m组分别求均值。这m个均值的分布接近正态分布。样本均值的抽样分布 _the sampling distribution of the sample mean_
+每次从总体中随机抽取n个样本，抽m次。m组分别求均值。这m个均值的分布接近正态分布。样本均值的抽样分布 _the sampling distribution of the sample mean。_
 
 原分布可以是任意分布。样本均值的抽样分布的标准差是原分布的 $${1\over \sqrt n}$$ 倍。n越大（一次抽取的样本更多），标准差越小。
 

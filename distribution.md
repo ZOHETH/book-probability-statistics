@@ -1,4 +1,4 @@
-# 分布
+# Distribution
 
 **泊松分布 Poisson distribution**
 
